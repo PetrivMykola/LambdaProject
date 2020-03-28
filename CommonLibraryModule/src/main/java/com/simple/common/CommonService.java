@@ -2,12 +2,12 @@ package com.simple.common;
 
 public class CommonService {
 	
-	public String functionServiceA() {
+	public String serviceA() {
 		
 		return "Hello from lambda function A";
 	}
 	
-	public String functionServiceB() {
+	public String serviceB() {
 		
 		
 		return "Hello from lambda function B";
